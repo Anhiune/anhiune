@@ -5,7 +5,7 @@
 📊 Python · Power BI · Stata · SQL · Pandas · ARIMA · VADER · BERT
 
 ## 📁 Featured Projects
-- [Sentiment Analysis for Stock Forecasting](#)
+- [Sentiment Analysis for Stock Forecasting](https://github.com/Anhiune/Sentiment-Stock-Forecasting)
 - [EV Charging Optimization](#)
 - [BBBS Match Prediction Model](#)
 
