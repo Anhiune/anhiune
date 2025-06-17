@@ -7,7 +7,7 @@
 ## 📁 Featured Projects
 - [Sentiment Analysis for Stock Forecasting](https://github.com/Anhiune/Sentiment-Stock-Forecasting)
 - [EV Charging Optimization](https://github.com/Anhiune/EV-Charging-Optimization)
-- [BBBS Match Prediction Model](#)
+- [MUDAC_DataScienceComp_BBBS-Match-Prediction](https://github.com/Anhiune/MUDAC_DataScienceComp_BBBS-Match-Prediction)
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hoang-anh-bui-anhiune)
 
